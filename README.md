@@ -13,7 +13,7 @@
 ## 下载安装包
 `.deb` 安装包（~461 MiB）因超过 Git 单文件上限，**放在本仓库的 Releases 页**：
 - GitHub: <https://github.com/xddang/stirlingpdf-kylin-arm64/releases>
-- Gitee: <https://gitee.com/2431579034@qq.com/stirlingpdf-kylin-arm64/releases>
+- Gitee: <https://gitee.com/hy2431579034/stirlingpdf-kylin-arm64/releases>
 
 下载后离线安装：
 ```bash
